@@ -1,0 +1,14 @@
+{
+  "name": "news-image-20261120-frontpage-v10",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "The World in One Day — Friday 20 November 2026 (front page v10)",
+  "license": "MIT",
+  "engines": {
+    "node": ">=22.18.0"
+  },
+  "scripts": {
+    "start": "node main.ts"
+  }
+}
